@@ -1,4 +1,21 @@
+# 画像処理
 pillow==11.3.0
+
+# 暗号化・セキュリティ
+cryptography>=3.4.8
+PyJWT>=2.4.0
+
+# 日付処理
+python-dateutil>=2.8.2
+
+# システム情報
+psutil>=5.8.0
+
+# 設定ファイル（オプショナル）
+PyYAML>=6.0
+toml>=0.10.2
+
+# 基本パッケージ
 pip==25.1
 setuptools==78.1.1
 wheel==0.45.1
